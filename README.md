@@ -12,4 +12,8 @@ Here are the results of this real-world project with Detection2 Object Detection
 
 Note: Implementation and Code is Given above in Notebook.ipynb
 
+My Internship Certificate is attached herewith.
+
+![1618856551452](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/322cdad9-e5d0-477c-823d-90c8db33edd6)
+
 
